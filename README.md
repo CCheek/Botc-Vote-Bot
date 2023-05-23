@@ -4,7 +4,7 @@ A python discord bot using pycord. Built for playing a play-by-post variant of B
 ## Installing and Running
 In order to use this program, make sure your enviroment is set up.
 ### Step 1:
-Download python in one way or another ([Python Site](https://www.python.org/) or [PyCharm](https://www.jetbrains.com/pycharm/)
+Download python in one way or another ([Python Site](https://www.python.org/) or [PyCharm](https://www.jetbrains.com/pycharm/))
 
 ### Step 2:
 Download the required packages using
