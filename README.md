@@ -1,4 +1,4 @@
-# DaniMoon-Vote-Bot
+# Botc-Vote-Bot
 A python discord bot using pycord. Built for playing a play-by-post variant of Blood on the Clocktower.
 
 ## Installing and Running
@@ -15,6 +15,7 @@ python -m pip install dotenv
 
 ### Step 3:
 Create a file with the name ".env" and populate it with the following details (replacing the things in parentheses with actual values):
+```
 #.env
 DISCORD_TOKEN=(Token of your bot, found through discord's developer portal)
 DISCORD_GUILD=(The ID of your server, found by right clicking and hitting "Copy Server ID")
@@ -23,6 +24,7 @@ VOTING_CHANNEL=("")
 GENERAL_CHANNEL=("")
 PUBLIC_ACTIONS_CHANNEL=("")
 SPECTATOR_ROLE=("")
+```
 
 ### Step 4:
 Run the python script!
